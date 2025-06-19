@@ -1,0 +1,42 @@
+// Fist planning about our Tripti (food app)
+// Whatever we build in website every thing is a component 
+// Try building each component and then use the compoenent composition and in the root level div 
+/*
+  Header component
+    -Logo
+    -navbar-items
+
+Body component
+    -search 
+    Restraunt-card-container-component
+       -img
+       -name   rating
+       -Delivery
+
+Footer component
+    -links
+    -copyright
+    
+*/
+
+
+// Always keep in mind when there is reusable code of building something wrap in the component
+// For dynamic generation of component we use props,think of like a argument to the js function which is component
+// Props are then combined in a object and pass to the component
+
+
+
+When there is more than one thing to be export then use the second method
+Two types of export
+     1.export default name
+     2.export const name
+Two types of import 
+    1.import name from path
+    2.import{name} from path   
+
+
+   // Now there is one hook called useEffect which will help in dynamic ui rendering
+   // Which means our website first renders the hardcoded data or skeleton and then we make api calls
+   // then after api has responded then re-renders the ui so in this case we use dynamic rendering
+   // useEffect will take two arguments first is callback and other is reference
+   // the callback will call when the component firts renders it after that it will call the callback       

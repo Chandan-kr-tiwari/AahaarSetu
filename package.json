@@ -1,0 +1,33 @@
+{
+  "name": "react-journey",
+  "version": "1.0.0",
+  "description": "A repo for learning react",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chandan-kr-tiwari/React-Journey.git"
+  },
+  "author": "Chandan-Tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chandan-kr-tiwari/React-Journey/issues"
+  },
+  "homepage": "https://github.com/Chandan-kr-tiwari/React-Journey#readme",
+  "devDependencies": {
+    "parcel": "^2.15.1"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.8.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^6.14.1"
+  },
+  "browsersList": [
+    "last 2 versions"
+  ]
+}
