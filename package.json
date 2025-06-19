@@ -1,7 +1,7 @@
 {
-  "name": "react-journey",
+  "name": "aahaar-setu",
   "version": "1.0.0",
-  "description": "A repo for learning react",
+  "description": "A repo for learning react by making Food-delivery app",
   "scripts": {
     "test": "jest",
     "start": "parcel index.html",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Chandan-kr-tiwari/React-Journey.git"
+    "url": "git+https://github.com/Chandan-kr-tiwari/AahaarSetu.git"
   },
   "author": "Chandan-Tiwari",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Chandan-kr-tiwari/React-Journey/issues"
+    "url": "https://github.com/Chandan-kr-tiwari/AahaarSetu/issues"
   },
-  "homepage": "https://github.com/Chandan-kr-tiwari/React-Journey#readme",
+  "homepage": "https://github.com/Chandan-kr-tiwari/AahaarSetu#readme",
   "devDependencies": {
     "parcel": "^2.15.1"
   },
