@@ -1,4 +1,4 @@
-// Fist planning about our Tripti (food app)
+// Fist planning about our AhaarSetu (food app)
 // Whatever we build in website every thing is a component 
 // Try building each component and then use the compoenent composition and in the root level div 
 /*

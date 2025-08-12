@@ -82,7 +82,7 @@ const Body = () => {
             className="top-rated-btn"
             onClick={() => {
               const filteredList = listofRestraunts.filter(
-                (restraunt) => parseFloat(restraunt.info.avgRating) > 4.5
+                (restraunt) => parseFloat(restraunt.info.avgRating) > 4
               );
               setFilteredListOfRestraunt(filteredList);
             }}
