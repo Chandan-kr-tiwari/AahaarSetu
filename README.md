@@ -32,11 +32,12 @@
 
 ## 📦 Tech Stack
 
-- **Frontend:** React 18, JavaScript (ES6+), CSS3  
+- **Frontend:** React 18, JavaScript (ES6+), CSS3  Parcel
 - **Routing:** React Router v6+  
 - **Data Fetching:** Fetch API  
 - **UI Patterns:** Shimmer UI, reusable components  
 - **State Management:** React Hooks (`useState`, `useEffect`)  
+- **React Redux** and **Context-Api**
 
 ---
 
