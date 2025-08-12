@@ -13,6 +13,7 @@
 
 ---
 
+
 ## 🚀 Features
 
 ✅ **Paste Swiggy API URL** in the Body component to fetch live restaurants.  
@@ -23,6 +24,9 @@
 ✅ **Dynamic Routing** using React Router v6+.   
 ✅ **Clean Component Architecture** with reusable UI parts.
 ✅ **Username** persists for all the pages by using react redux.
+✅ **Online and Offline** ui has also integrated.
+
+
 
 ---
 
